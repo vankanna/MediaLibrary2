@@ -1,0 +1,65 @@
+2021-03-07 15:40:12.0155 INFO Program started
+2021-03-07 15:40:12.0455 INFO File scrub started
+2021-03-07 15:40:12.0738 INFO File scrub ended
+2021-03-07 15:40:12.0738 INFO movies.scrubbed.csv
+2021-03-07 15:40:12.0795 INFO Program ended
+2021-03-07 21:57:47.3462 INFO Program started
+2021-03-07 21:57:47.3592 INFO Movie Manager loaded.
+2021-03-07 21:57:47.3745 ERROR There has been an Exception String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-07 21:57:56.1696 INFO Users choice = 2
+2021-03-07 21:58:34.0908 INFO Users choice = 2
+2021-03-07 21:58:38.1949 INFO Users choice = q
+2021-03-07 21:58:38.1949 INFO Program Quitting
+2021-03-07 21:58:38.2040 INFO Program ended
+2021-03-07 22:00:01.7502 INFO Program started
+2021-03-07 22:00:01.7664 INFO Movie Manager loaded.
+2021-03-07 22:00:01.7966 ERROR There has been an Exception String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-07 22:06:16.7182 INFO Program started
+2021-03-07 22:06:16.7498 INFO Movie Manager loaded.
+2021-03-07 22:06:18.8470 INFO Users choice = 2
+2021-03-07 22:11:21.4081 INFO Users choice = q
+2021-03-07 22:11:21.4081 INFO Program Quitting
+2021-03-07 22:11:21.4081 INFO Program ended
+2021-03-07 22:11:24.0622 INFO Program started
+2021-03-07 22:11:24.0803 INFO Movie Manager loaded.
+2021-03-07 22:11:27.3800 INFO Users choice = 2
+2021-03-07 22:47:26.5152 INFO Program started
+2021-03-07 22:47:26.5331 INFO Movie Manager loaded.
+2021-03-07 22:47:28.9424 INFO Users choice = 2
+2021-03-07 22:47:33.1200 INFO Users choice = 1
+2021-03-07 22:47:51.9068 INFO Program started
+2021-03-07 22:47:51.9231 INFO Movie Manager loaded.
+2021-03-07 22:47:52.6016 INFO Users choice = 1
+2021-03-07 22:48:27.6210 INFO Users choice = 2
+2021-03-07 22:51:20.7644 INFO Program started
+2021-03-07 22:51:20.7856 INFO Movie Manager loaded.
+2021-03-07 22:51:22.8142 INFO Users choice = 2
+2021-03-07 22:52:31.4386 INFO Program started
+2021-03-07 22:52:31.4566 INFO Movie Manager loaded.
+2021-03-07 22:52:35.7797 INFO Users choice = 2
+2021-03-07 22:53:24.0176 INFO Program started
+2021-03-07 22:53:24.0305 INFO Movie Manager loaded.
+2021-03-07 22:53:26.7671 INFO Users choice = 2
+2021-03-07 23:05:29.8276 INFO Program started
+2021-03-07 23:05:29.8460 INFO Movie Manager loaded.
+2021-03-07 23:05:32.6855 INFO Users choice = 2
+2021-03-07 23:06:02.8401 INFO Users choice = 1
+2021-03-07 23:06:41.8663 INFO Users choice = 2
+2021-03-07 23:07:25.9761 INFO Users choice = 3
+2021-03-07 23:07:25.9761 INFO Wrote to file
+2021-03-07 23:08:23.0788 INFO Program started
+2021-03-07 23:08:23.0969 INFO Movie Manager loaded.
+2021-03-07 23:08:24.3924 INFO Users choice = 2
+2021-03-07 23:13:35.9526 INFO Program started
+2021-03-07 23:13:35.9688 INFO Movie Manager loaded.
+2021-03-07 23:13:38.2256 INFO Users choice = 1
+2021-03-07 23:14:10.4066 INFO Users choice = 2
+2021-03-07 23:14:39.9145 INFO Users choice = 3
+2021-03-07 23:14:39.9367 ERROR The process cannot access the file 'C:\Users\Sumin\Desktop\DotNetDb\MediaLibrary2\movies.scrubbed.csv' because it is being used by another process.
+2021-03-07 23:14:39.9367 INFO Wrote to file
+2021-03-07 23:14:57.3261 INFO Users choice = 3
+2021-03-07 23:14:57.3316 ERROR The process cannot access the file 'C:\Users\Sumin\Desktop\DotNetDb\MediaLibrary2\movies.scrubbed.csv' because it is being used by another process.
+2021-03-07 23:14:57.3316 INFO Wrote to file
+2021-03-07 23:14:59.6079 INFO Users choice = 2
+2021-03-07 23:15:29.5413 INFO Users choice = 3
+2021-03-07 23:15:29.5594 INFO Wrote to file
