@@ -10,6 +10,9 @@ namespace MediaLibrary
 {
     public class MovieFile
     {
+        public string filePath { get; set; }
+        public List<Movie> Movies { get; set; }
+    
         private static NLog.Logger logger = NLogBuilder.ConfigureNLog(Directory.GetCurrentDirectory() + "\\nlog.config").GetCurrentClassLogger();
         List<Movie> movies = new List<Movie>();
         string csvHeader = "";
